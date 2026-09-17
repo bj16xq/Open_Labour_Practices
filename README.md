@@ -1,6 +1,8 @@
 # Open Practices in Organised Labour
 This repository hosts information on and files for open practices and open content in organised labour for the purpose of promoting openness (accessibility, collaboration, innovation, etc.) therein. This concept extends from the related concept of [open educational practices (OEP)](https://en.wikipedia.org/wiki/Open_educational_practices).
 
+Most resources are provided in markup language such as markdown (.md) and HTML (.html).
+
 For an overview of OPOL as well as explanations of each resource in this repository, please view [the Wiki.](https://github.com/bj16xq/Open_Labour_Practices/wiki)
 
 ## Related Content
