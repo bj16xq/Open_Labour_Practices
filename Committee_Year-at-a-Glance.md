@@ -3,9 +3,9 @@
 | | |
 | -- | -- |
 | **Creator** | Ben Johnson |
-| **Date/Version** | October 1, 2026 |
+| **Date/Version** | October 7, 2026 |
 | **Open License** | CC-BY 4.0 |
-| **Intended User** | Esports coaches and student leaders |
+| **Intended User** | Committee chairs |
 | **Original Purpose** | Providing a framework by which monthly committee meetings can be planned. |
 
 | Month | Items |
