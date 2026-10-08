@@ -6,7 +6,7 @@
 | **Date/Version** | October 7, 2026 |
 | **Open License** | CC-BY 4.0 |
 | **Intended User** | Committee chairs |
-| **Original Purpose** | Providing a framework by which monthly committee meetings can be planned. |
+| **Original Purpose** | Providing a framework for an annual plan for monthly committee meetings. |
 
 # Background
 * Planning committee agendas can be challenging if done month-by-month
