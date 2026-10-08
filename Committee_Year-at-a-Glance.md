@@ -8,6 +8,12 @@
 | **Intended User** | Committee chairs |
 | **Original Purpose** | Providing a framework by which monthly committee meetings can be planned. |
 
+# Background
+* Planning committee agendas can be challenging if done month-by-month
+* Planning main items for the entire year is useful to coordinate predictable items
+* To maximize the participatory nature of a committee, it is effective to create a Year-at-a-Glance document (see template below) that is co-created with committee members and revisited by the committee every few months.
+
+# Content
 | Month | Items |
 | -- | -- |
 | May | Introductions, Create Year-at-a-Glance |
@@ -20,5 +26,5 @@
 | December | Usual business |
 | January | Usual business, Review Year-at-a-Glance |
 | February | Usual business |
-| March | Usual business, Review Year-at-a-Glance |
+| March | Usual business |
 | April | Transition, Reflection activity (e.g., for health & safety, see [here](https://github.com/bj16xq/Open_Labour_Practices/blob/main/JHSC%20Rep%20Reflection%20Guide.md)) |
