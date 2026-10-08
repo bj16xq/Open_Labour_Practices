@@ -1,6 +1,4 @@
-*This is the preview. For the downloadable ODF file, see [here](https://github.com/bj16xq/Open-Union-Practices/blob/main/JHSC%20Rep%20Reflection%20Prompts%20v1.1.pdf)
-
-# JHSC Representative Reflection Prompts
+# Guide on Reflective Practice for JHSC Representatives
 
 > “The unexamined life is not worth living” 
 > — Socrates, as cited by Plato, n.d., Apology (38a)
