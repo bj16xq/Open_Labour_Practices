@@ -14,6 +14,8 @@
 * To maximize the participatory nature of a committee, it is effective to create a Year-at-a-Glance document (see template below) that is co-created with committee members and revisited by the committee every few months.
 
 # Content
+Below is a template based on a committee that functions from May - April.
+
 | Month | Items |
 | -- | -- |
 | May | Introductions, Create Year-at-a-Glance |
